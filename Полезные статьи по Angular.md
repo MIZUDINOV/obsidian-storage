@@ -8,4 +8,4 @@
 - [DOM, DI и View: деревья в Angular](https://habr.com/ru/companies/tinkoff/articles/756024/)
 - [Добавьте реактивности в свои шаблоны Angular с помощью LetDirective. Часть 1.](https://indepth.dev/posts/1367/bring-reactivity-to-your-angular-templates-with-the-letdirective-part-1)
 - [Добавьте реактивности в свои шаблоны Angular с помощью LetDirective. Часть 2.](https://indepth.dev/posts/1376/bring-reactivity-to-your-angular-templates-with-the-letdirective-part-2)
-- 
+- [Обнаружение изменений и деревья компонентов в приложениях Angular](https://indepth.dev/posts/1512/change-detection-and-component-trees-in-angular-applications)
